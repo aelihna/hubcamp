@@ -2,7 +2,7 @@
 
 
 ## Technology Stack
-FrontEnd Stack is built with preprocessor: HTML, CSS (Sass/Compass) and JS. Soy Alina
+FrontEnd Stack is built with preprocessor: HTML, CSS (Sass/Compass) and JS.
 
 ** Prerequisites
 
